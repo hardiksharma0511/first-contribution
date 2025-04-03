@@ -141,6 +141,7 @@ Now create a branch using the `git switch` command:
 git switch -c your-new-branch-name
 ```
 
+
 For example:
 
 ```bash
